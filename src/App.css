@@ -1,0 +1,19 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Sans+Arabic:wght@100;300;500&display=swap');
+*{
+  font-family: 'IBM Plex Sans Arabic', sans-serif;
+}
+.orange-bg{
+  background-color: #FF6E40!important;
+}
+.orange{
+  color: #FF6E40!important;
+}
+.orange-btn{
+  background-color: #FF6E40!important;
+  border: none!important;
+  padding: 7px 40px 7px 40px!important;
+}
+a, a:hover, a:focus, a:active {
+  text-decoration: none!important;
+  color: inherit!important;
+}
